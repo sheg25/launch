@@ -37,5 +37,10 @@ font-weight:700;
 color:#bbb;
 }
 
+.center-header {
+    margin: 0 auto;
+    width:80% /* value of your choice which suits your alignment */
+}
+
 
 
