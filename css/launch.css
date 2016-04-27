@@ -18,18 +18,18 @@ color:#bbb;
 
 
 
-header form .form-group option.form-control{
+.intro-text form .form-group option.form-control{
 height:auto;
 }
 
-header form ::-webkit-option-selected{
+.intro-text form ::-webkit-option-selected{
 font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 text-transform:uppercase;
 font-weight:700;
 color:#bbb;
 }
 
-header :-ms-option-selected{
+.intro-text form :-ms-option-selected{
 font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 text-transform:uppercase;
 font-weight:700;
