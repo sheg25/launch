@@ -18,8 +18,9 @@ color:#bbb;
 
 
 
-.intro-text form .form-group input.form-control{
+.intro-text form .form-group input .form-control{
 height:auto;
+margin: 0 auto;
 }
 
 .intro-text form ::-webkit-input-placeholder{
@@ -36,13 +37,5 @@ font-weight:700;
 color:#bbb;
 }
 
-.middle {
-   display: table;
-   width: 100%;
-}
-.form-middle {
-   display: table-cell;
-   text-align: center;
-   vertical-align: middle;
-}
+
 
