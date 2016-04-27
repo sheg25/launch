@@ -18,11 +18,11 @@ color:#bbb;
 
 
 
-header .form-group select.form-control{
+header form .form-group select.form-control{
 height:auto;
 }
 
-header ::-webkit-select-placeholder{
+header form ::-webkit-select-placeholder{
 font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 text-transform:uppercase;
 font-weight:700;
