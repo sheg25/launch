@@ -1,31 +1,35 @@
-section#contact ::-webkit-select-placeholder{
-font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-text-transform:uppercase;
-font-weight:700;
-color:#bbb;
-}
-
-section#contact :-ms-select-placeholder{
-font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-text-transform:uppercase;
-font-weight:700;
-color:#bbb;
-}
-
-
-
-header form .form-group select.form-control{
+section#contact .form-group option.form-control{
 height:auto;
 }
 
-header form ::-webkit-select-placeholder{
+section#contact ::-webkit-option-selected{
 font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 text-transform:uppercase;
 font-weight:700;
 color:#bbb;
 }
 
-header :-ms-select-placeholder{
+section#contact :-ms-option-selected{
+font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+text-transform:uppercase;
+font-weight:700;
+color:#bbb;
+}
+
+
+
+header form .form-group option.form-control{
+height:auto;
+}
+
+header form ::-webkit-option-selected{
+font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+text-transform:uppercase;
+font-weight:700;
+color:#bbb;
+}
+
+header :-ms-option-selected{
 font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 text-transform:uppercase;
 font-weight:700;
