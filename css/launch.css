@@ -20,8 +20,6 @@ color:#bbb;
 
 .intro-text form .form-group input.form-control{
 height:auto;
-display: table;
-vertical-align: middle;
 }
 
 .intro-text form ::-webkit-input-placeholder{
@@ -36,5 +34,9 @@ font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 text-transform:uppercase;
 font-weight:700;
 color:#bbb;
+}
+
+.intro-text form .form-group .middle {
+	vertical-align: middle;
 }
 
