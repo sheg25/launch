@@ -19,9 +19,8 @@ color:#bbb;
 
 
 .intro-text form .form-group input .form-control{
-
 margin: 0 auto;
-height: 34px;
+height: auto;
 }
 
 .intro-text form ::-webkit-input-placeholder{
