@@ -20,6 +20,8 @@ color:#bbb;
 
 .intro-text form .form-group input.form-control{
 height:auto;
+display: table;
+vertical-align: middle;
 }
 
 .intro-text form ::-webkit-input-placeholder{
